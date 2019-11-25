@@ -38,7 +38,7 @@ int main() {
 	String s("HI~!");
 	s = sz; // s = String(sz);로 암묵적인 생성자를 이용한 타입 변환
 
-	s.Print();
+	//s.Print();
 
 	return 0;
 }

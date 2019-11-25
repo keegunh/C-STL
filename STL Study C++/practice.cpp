@@ -44,6 +44,10 @@ int main()
 	p3.SetX(1);
 	p3.Print();
 	return 0;
+
+	vector<int>::iterator iter;
+	iter = null;
+
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
